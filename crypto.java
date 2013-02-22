@@ -1,6 +1,5 @@
 /*
 Author : Sam Halligan
-Student Number : 59340936
 */
 
 import java.util.Random;
